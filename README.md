@@ -41,6 +41,8 @@ https://picobricks.com/products/tinylab-maker-kit-arduino-starter-kit-with-20-mo
 ![TinyLabDetails](https://github.com/marysaray/SarayTrustFundCommunityDevelopment/assets/82470838/deb3cb56-9354-41b6-9dc1-c4e98dda8fad)
 
 ### Spintronics: Build Mechanical Circuits 
+![SpintronicsComparison](https://github.com/marysaray/SarayTrustFundCommunityDevelopment/assets/82470838/fd03a73f-cb23-482e-a4e2-b7d954e7dbc9)
+
 *Website: Spintronics is a new game (ages 8 to adult) where players build mechanical circuits to solve puzzles. Players feel the pull of voltage and see the flow of current as they discover electronics in a tangible and deeply intuitive way, using the first physical equivalent of electronics ever built.*
 
 https://store.upperstory.com/
